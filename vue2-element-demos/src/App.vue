@@ -16,6 +16,7 @@
             <el-menu-item index="/components">组件示例</el-menu-item>
             <el-menu-item index="/form">表单示例</el-menu-item>
             <el-menu-item index="/table">表格示例</el-menu-item>
+            <el-menu-item index="/address">地址选择器</el-menu-item>
           </el-menu>
         </nav>
       </el-header>
