@@ -1,0 +1,55 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+out/
+coverage/
+*.tsbuildinfo
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Misc
+*.local
+*.cache
+.cache/
+# Next.js
+.next/
+# Nuxt.js
+.nuxt/
+# Vuepress
+.vuepress/dist/
+# Storybook
+storybook-static/
+# Svelte
+.svelte-kit/
+# Angular
+.angular/
+# Expo
+.expo/
+.expo-shared/
+
